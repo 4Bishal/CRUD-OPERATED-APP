@@ -22,7 +22,7 @@ A full-featured CRUD (Create, Read, Update, Delete) application built using the 
 - **MongoDB** – NoSQL database
 - **Mongoose** – ODM to interact with MongoDB
 - **EJS** – Templating engine for rendering HTML
-- **Bootstrap** – For basic styling (optional)
+- **HTML CSS (BASIC - MORE FOCUS ON BACKEND PART)** – For basic styling (optional)
 
 ---
 
