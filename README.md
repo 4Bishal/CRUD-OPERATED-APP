@@ -9,7 +9,7 @@ A full-featured CRUD (Create, Read, Update, Delete) application built using the 
 - Add new chat entries
 - View all chats
 - Update existing chats
-- Delete chats (with optional confirmation logic)
+- Delete chats 
 - Server-side rendering using EJS
 - MongoDB for persistent storage
 
